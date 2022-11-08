@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NithurshanYogarasa
 - 👀 I’m interested in Networking and Data analysis
-- 🌱 I’m currently learning BSc in Computer science
+- 🌱 I’m currently learning BSc in Physical science(Computer science, Pure mathematics, Applied mathematics)
 - 💞️ I’m looking to collaborate on Networking sites
 - 📫 How to reach me : nithurshanyogarasa@gmail.com
 
